@@ -1,0 +1,288 @@
+[[LAZperf]]
+arch = "aarch64"
+git-tree-sha1 = "f6d2fee6c6d6fd248e7864073080c184dfa2b04f"
+os = "macos"
+
+    [[LAZperf.download]]
+    sha256 = "1bda1628df200757479dae233401031e4295828210dc60b51df82a0479c80090"
+    url = "https://github.com/JuliaBinaryWrappers/LAZperf_jll.jl/releases/download/LAZperf-v2.1.0+0/LAZperf.v2.1.0.aarch64-apple-darwin.tar.gz"
+[[LAZperf]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "30905f0e764db35f7d5718df0096b1a688e0a912"
+libc = "glibc"
+os = "linux"
+
+    [[LAZperf.download]]
+    sha256 = "ccbe989eaec30b0044a2805d366313cd1d5b24fe1683221354eb886350189cec"
+    url = "https://github.com/JuliaBinaryWrappers/LAZperf_jll.jl/releases/download/LAZperf-v2.1.0+0/LAZperf.v2.1.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[LAZperf]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7d0feb6bdf066a4be0d438a330e4adf292591819"
+libc = "glibc"
+os = "linux"
+
+    [[LAZperf.download]]
+    sha256 = "7bcc858d39caf757c82b13b119326364c4e256691c2bb606167b9e9cde0809bd"
+    url = "https://github.com/JuliaBinaryWrappers/LAZperf_jll.jl/releases/download/LAZperf-v2.1.0+0/LAZperf.v2.1.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[LAZperf]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4cd56ec82db7384a9b2c8d58000051ef15bc5d14"
+libc = "musl"
+os = "linux"
+
+    [[LAZperf.download]]
+    sha256 = "c5bcccb104e9550adfadb3ba068fc9eceb23de73de94db91f79f51c52bbaed99"
+    url = "https://github.com/JuliaBinaryWrappers/LAZperf_jll.jl/releases/download/LAZperf-v2.1.0+0/LAZperf.v2.1.0.aarch64-linux-musl-cxx03.tar.gz"
+[[LAZperf]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "48b3c857f4d6bad31b49112187198a26513102ed"
+libc = "musl"
+os = "linux"
+
+    [[LAZperf.download]]
+    sha256 = "f78bb19239378c9930532886dfa41cbb3a08fad592f39540eb53932946077465"
+    url = "https://github.com/JuliaBinaryWrappers/LAZperf_jll.jl/releases/download/LAZperf-v2.1.0+0/LAZperf.v2.1.0.aarch64-linux-musl-cxx11.tar.gz"
+[[LAZperf]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a9c751998ef23d932c5bacbef4b365f89c4eb9a2"
+libc = "glibc"
+os = "linux"
+
+    [[LAZperf.download]]
+    sha256 = "624618ae98afba4a1f486d172f0a80675f74f95f3cb933ccac510d8460005b70"
+    url = "https://github.com/JuliaBinaryWrappers/LAZperf_jll.jl/releases/download/LAZperf-v2.1.0+0/LAZperf.v2.1.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[LAZperf]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "663ae2490a1d299a1f849dca7e7b00aaed0439b7"
+libc = "glibc"
+os = "linux"
+
+    [[LAZperf.download]]
+    sha256 = "aa4350da79eaf8b71592fa05edbbb44f9c2bd135624cd124d4d1171ede650960"
+    url = "https://github.com/JuliaBinaryWrappers/LAZperf_jll.jl/releases/download/LAZperf-v2.1.0+0/LAZperf.v2.1.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[LAZperf]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c0402e113d6e7d43f365c32b7e213f0630681147"
+libc = "musl"
+os = "linux"
+
+    [[LAZperf.download]]
+    sha256 = "f1294ff2e65ba15eabbc60d857bec74d2b9110d36ba80960743f77989f661dc3"
+    url = "https://github.com/JuliaBinaryWrappers/LAZperf_jll.jl/releases/download/LAZperf-v2.1.0+0/LAZperf.v2.1.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[LAZperf]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "fc57c931b76a763d0f30ab671f66218bc5aab4db"
+libc = "musl"
+os = "linux"
+
+    [[LAZperf.download]]
+    sha256 = "ea3f962208cb5e0180636597409084880367e1ed67435e8e3e6d9dcb8e5136db"
+    url = "https://github.com/JuliaBinaryWrappers/LAZperf_jll.jl/releases/download/LAZperf-v2.1.0+0/LAZperf.v2.1.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[LAZperf]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "766326bbc229866b0a27cb20536b1269f4835899"
+libc = "glibc"
+os = "linux"
+
+    [[LAZperf.download]]
+    sha256 = "1ab8fc9bebb3fc8c296fcf08b6ed5924b70b8a1a3af334c8276a241fb655a99b"
+    url = "https://github.com/JuliaBinaryWrappers/LAZperf_jll.jl/releases/download/LAZperf-v2.1.0+0/LAZperf.v2.1.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[LAZperf]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0b9980d26764249137d714219723e95771f77d81"
+libc = "glibc"
+os = "linux"
+
+    [[LAZperf.download]]
+    sha256 = "58481b01e2cf85a560622f6a39abb10b4c344bfb54acfc7cbd055f7a16068e54"
+    url = "https://github.com/JuliaBinaryWrappers/LAZperf_jll.jl/releases/download/LAZperf-v2.1.0+0/LAZperf.v2.1.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[LAZperf]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "83df5c1bd6ca374bc89726edfdee4b0e72bd5767"
+libc = "musl"
+os = "linux"
+
+    [[LAZperf.download]]
+    sha256 = "06195a3f0ce52f8cdf3834b68cb31038831e45287ca4c5793feea4a9fa22c93f"
+    url = "https://github.com/JuliaBinaryWrappers/LAZperf_jll.jl/releases/download/LAZperf-v2.1.0+0/LAZperf.v2.1.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[LAZperf]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6fa455343dc4e38092142ebbcf951aad8d83c3c8"
+libc = "musl"
+os = "linux"
+
+    [[LAZperf.download]]
+    sha256 = "ce17a81a02a78bdb2f9acd03b02433f82504179bff97054c9f74dd66d856dfdc"
+    url = "https://github.com/JuliaBinaryWrappers/LAZperf_jll.jl/releases/download/LAZperf-v2.1.0+0/LAZperf.v2.1.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[LAZperf]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c17e15bceabaa4ed2c340af0cda8788a457ef471"
+libc = "glibc"
+os = "linux"
+
+    [[LAZperf.download]]
+    sha256 = "e67591ab989dd02ed3bc9e3004daa41fe94f1138dec21ca1f2564f57410643a1"
+    url = "https://github.com/JuliaBinaryWrappers/LAZperf_jll.jl/releases/download/LAZperf-v2.1.0+0/LAZperf.v2.1.0.i686-linux-gnu-cxx03.tar.gz"
+[[LAZperf]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c4e9b982acde3bbd503a4721bcb7b74fe14f402d"
+libc = "glibc"
+os = "linux"
+
+    [[LAZperf.download]]
+    sha256 = "1e819789af2d783afd9f418206a9cae171ca52bda11d2ff86fb9d12144f73e48"
+    url = "https://github.com/JuliaBinaryWrappers/LAZperf_jll.jl/releases/download/LAZperf-v2.1.0+0/LAZperf.v2.1.0.i686-linux-gnu-cxx11.tar.gz"
+[[LAZperf]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "752de1039495738ae4c563f808d8c932b833df69"
+libc = "musl"
+os = "linux"
+
+    [[LAZperf.download]]
+    sha256 = "dac386ffca1104522e5baee788ac4d9c766052911ae4dd8d650911f842cb62a6"
+    url = "https://github.com/JuliaBinaryWrappers/LAZperf_jll.jl/releases/download/LAZperf-v2.1.0+0/LAZperf.v2.1.0.i686-linux-musl-cxx03.tar.gz"
+[[LAZperf]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4343756ac98b51ba3412a9e475a67b29e39d866d"
+libc = "musl"
+os = "linux"
+
+    [[LAZperf.download]]
+    sha256 = "dc9ab5148f24baa9431f4e783491d9fcf531f189532d60cbf928ac52c7565499"
+    url = "https://github.com/JuliaBinaryWrappers/LAZperf_jll.jl/releases/download/LAZperf-v2.1.0+0/LAZperf.v2.1.0.i686-linux-musl-cxx11.tar.gz"
+[[LAZperf]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3a9f700c1244c0cef55cc340860eb5faacb62c04"
+os = "windows"
+
+    [[LAZperf.download]]
+    sha256 = "690b97b2d0b2fd046dffec9c21afb84b45329289a20728c840032068cbc8ba82"
+    url = "https://github.com/JuliaBinaryWrappers/LAZperf_jll.jl/releases/download/LAZperf-v2.1.0+0/LAZperf.v2.1.0.i686-w64-mingw32-cxx03.tar.gz"
+[[LAZperf]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "154f46e26dab054a709342762568c884e267abad"
+os = "windows"
+
+    [[LAZperf.download]]
+    sha256 = "a571bf45728ba46edd08e55d16f188b83e7c7ddf6a506c0d6275c1b15cd4ca99"
+    url = "https://github.com/JuliaBinaryWrappers/LAZperf_jll.jl/releases/download/LAZperf-v2.1.0+0/LAZperf.v2.1.0.i686-w64-mingw32-cxx11.tar.gz"
+[[LAZperf]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "40fefcb23d22a25a4b4ee592331a4851baa9e80e"
+libc = "glibc"
+os = "linux"
+
+    [[LAZperf.download]]
+    sha256 = "de463c1760c2a3a6a2dc1f2a95af9a5e24923356b8d63d4bc68f9000c34e3f43"
+    url = "https://github.com/JuliaBinaryWrappers/LAZperf_jll.jl/releases/download/LAZperf-v2.1.0+0/LAZperf.v2.1.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[LAZperf]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ef23dce3e31994045a6f4d772b6601f277db4dfb"
+libc = "glibc"
+os = "linux"
+
+    [[LAZperf.download]]
+    sha256 = "a48d5e6650f6de34bb9910c296d2633a367b803aa9d9bc2fa1ae883f175f1171"
+    url = "https://github.com/JuliaBinaryWrappers/LAZperf_jll.jl/releases/download/LAZperf-v2.1.0+0/LAZperf.v2.1.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[LAZperf]]
+arch = "x86_64"
+git-tree-sha1 = "8609fd7962c76b58864d3be9cb1450ead6ce237d"
+os = "macos"
+
+    [[LAZperf.download]]
+    sha256 = "2f94df6f40eab38786f0c2012148c248933f6d9a7fa7a2d5d432f4e52b411d20"
+    url = "https://github.com/JuliaBinaryWrappers/LAZperf_jll.jl/releases/download/LAZperf-v2.1.0+0/LAZperf.v2.1.0.x86_64-apple-darwin.tar.gz"
+[[LAZperf]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9e0edcbe2b96e33e1f02db6e9027c8edc9e46cef"
+libc = "glibc"
+os = "linux"
+
+    [[LAZperf.download]]
+    sha256 = "6e1ca6c027d9d7eabf2f0f0b2214ba2f60c7f4a620b8e978b4da36e1ef049661"
+    url = "https://github.com/JuliaBinaryWrappers/LAZperf_jll.jl/releases/download/LAZperf-v2.1.0+0/LAZperf.v2.1.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[LAZperf]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ee70afcf712e36a0aa289a85c8b85493830682c9"
+libc = "glibc"
+os = "linux"
+
+    [[LAZperf.download]]
+    sha256 = "b0631d224db290e53392cd9dfe2d3a90ed44e8a537b035ab36ce63546eac3dd1"
+    url = "https://github.com/JuliaBinaryWrappers/LAZperf_jll.jl/releases/download/LAZperf-v2.1.0+0/LAZperf.v2.1.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[LAZperf]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5e15bf9fba57952144d605def7b91aefa28f7922"
+libc = "musl"
+os = "linux"
+
+    [[LAZperf.download]]
+    sha256 = "113e99f852abaaf01605606294d2a0532d63d32009ca6a5dbd7e72f3559578e1"
+    url = "https://github.com/JuliaBinaryWrappers/LAZperf_jll.jl/releases/download/LAZperf-v2.1.0+0/LAZperf.v2.1.0.x86_64-linux-musl-cxx03.tar.gz"
+[[LAZperf]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a8184215ce7c6840a7860478aa62cdc1c90d1a72"
+libc = "musl"
+os = "linux"
+
+    [[LAZperf.download]]
+    sha256 = "49b0dad7ffc1da97f9f8fc9acb77a1b261c46ba04ed5b3719b3d852d26b21ede"
+    url = "https://github.com/JuliaBinaryWrappers/LAZperf_jll.jl/releases/download/LAZperf-v2.1.0+0/LAZperf.v2.1.0.x86_64-linux-musl-cxx11.tar.gz"
+[[LAZperf]]
+arch = "x86_64"
+git-tree-sha1 = "d1efd78debb5e3b4fda77c294d293f28cf58723c"
+os = "freebsd"
+
+    [[LAZperf.download]]
+    sha256 = "e20cc08147b3d345fee59633b15f5e06254c09cbac3e872c2b933c7ad88d4bf7"
+    url = "https://github.com/JuliaBinaryWrappers/LAZperf_jll.jl/releases/download/LAZperf-v2.1.0+0/LAZperf.v2.1.0.x86_64-unknown-freebsd.tar.gz"
+[[LAZperf]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "82754e88f49db9d10ab806cc168d7aeaace32dd4"
+os = "windows"
+
+    [[LAZperf.download]]
+    sha256 = "79d0149c71233dbf88039e5054a3853fd1ca51360e683b181e8e2f3222ba1ac6"
+    url = "https://github.com/JuliaBinaryWrappers/LAZperf_jll.jl/releases/download/LAZperf-v2.1.0+0/LAZperf.v2.1.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[LAZperf]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b1d43877d16bd7609245da255380c16273a74ca4"
+os = "windows"
+
+    [[LAZperf.download]]
+    sha256 = "1675b8588d67d786339361f501de23c841fc0aace6f67173c1342ed8a85f487d"
+    url = "https://github.com/JuliaBinaryWrappers/LAZperf_jll.jl/releases/download/LAZperf-v2.1.0+0/LAZperf.v2.1.0.x86_64-w64-mingw32-cxx11.tar.gz"
